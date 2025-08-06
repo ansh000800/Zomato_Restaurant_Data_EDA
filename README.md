@@ -51,6 +51,6 @@ This project is an **Exploratory Data Analysis (EDA)** of Zomato's restaurant da
 
 🚀 Getting Started
 1. Clone the repository
-2. Download the Zip Raw Dataset.
+2. Download the Dataset From Kaggle API (Data is too Large to Upload.).
 3. Open the File in VS Code or any other coding aaplication.
 4. Download the required Python Libraries.
